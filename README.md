@@ -1,2 +1,3 @@
 # king
-theme: MINIMA
+theme:minima
+
